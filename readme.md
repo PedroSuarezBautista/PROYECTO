@@ -1,11 +1,22 @@
-GIT
-Git indice
-Caracteristicas
-tipos
-cualidades
-Beneficios
+# GIT
 
-CONTENIDO
+# GIT INDICE
+
+CONTEDIDO:
+
+*-Caracteristicas*
+
+*-Tipos*
+
+*-Cualidades*
+
+*-Beneficios*
+
+
+
+# 
+# *CONTENIDO*
+
 -Caracteristicas:
 Es muy potente.
 Fue diseñada por Linus Torvalds.
@@ -21,8 +32,8 @@ Git se ha ideado para posibilitar la ramificación y el etiquetado como procesos
 
 Beneficios:
 Una de las más grandes ventajas de Git es su capacidad de ramificación, ya que son fáciles y económicas de fusionar, lo que facilita el flujo de trabajo entre muchos usuarios de Git. Las ramas brindan un entorno aislado para cada cambio en su código base.
-
-GLOSARIO
+#
+# *GLOSARIO*
 @mention
 To notify a person on GitHub by using @ before their username. Users in an organization on GitHub can also be a part of a team that can be mentioned.
 
